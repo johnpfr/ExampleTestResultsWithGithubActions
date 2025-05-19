@@ -2,7 +2,7 @@
 
 public class Echoer
 {
-    // SOmertihtgi
+    // Somethinhg
     public string Echo(string message)
     {
         return message;
